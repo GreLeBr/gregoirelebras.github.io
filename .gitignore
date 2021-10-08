@@ -34,5 +34,5 @@ Temporary Items
 .apdisk
 
 # Personal config
-.Identifier
+*.Identifier
 .zip
